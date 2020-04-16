@@ -1,3 +1,5 @@
 body { padding: 0px; margin: 0px; background: #282c34;}
 .header { position: relative; background: #353554; color: #c7c7c7; text-align: center; font-weight: bold;
 font-family: monospace, cursive; font-size: 30px; border-radius: 0 0 17px 17px; border: solid #000000 5px; padding: 10px;}
+.Text { position: relative; color: #c7c7c7; font-family: monospace, cursive; font-size: 40px; text-align: center; margin-top: 300px;}
+.SOON { position: relative; color: #8b000a; font-size: 50px;}
