@@ -1,0 +1,16 @@
+body { margin: 0px; padding: 0px; background: #282c34;display: flex; flex-direction: column; min-height: 100vh;}
+.header { position: relative; background: #353554; text-align: center; font-size: 50px; font-weight: bold;
+font-family: monospace, cursive; color: #c7c7c7; border-radius: 0 0 17px 17px; border: solid #000000 7px;
+ margin: 0px; padding: 30px;}
+.footer { position: fixed; width: 99.1%; height: 50px; padding-top: 25px; background: #353554;
+font-family: monospace, cursive; font-size: 25px; color: #c7c7c7; text-align: center;
+margin: 0px; margin-top: 10px; border-radius: 17px 17px 0 0;border: solid #000000 5px; bottom: 0px; left: 0px;}
+.Passwort { position: absolute; margin-left: 200px; margin-top: 180px; border-radius: 6px; border: solid #000000 7px;}
+.Passwort:hover { border: solid #717171 7px;}
+.Bestätigen { position: absolute; margin-left: 200px; margin-top: 240px; border-radius: 6px; border: solid #000000 7px;}
+.Bestätigen:hover { border: solid #717171 7px;}
+.Bild1 { position: relative; margin-left: 590px; margin-top: 70px;}
+.ABOUT { position: absolute; margin-bottom: 25px; left: 0px; bottom: 0px; font-family: monospace, cursive; font-size: 25px; margin-top: 50px; color: #c7c7c7; margin-left: 40px;}
+.ABOUT:hover { color: #617f8c;}
+a {color: #c7c7c7;}
+a:hover {color: #617f8c;}

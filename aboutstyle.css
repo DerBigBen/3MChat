@@ -1,0 +1,7 @@
+body { margin: 0px; padding: 0px; background: #282c34;}
+.header { position: relative; background: #353554; color: #c7c7c7; text-align: center;
+font-family: monospace, cursive; font-size: 40px; font-weight: bold; border-radius: 0 0 17px 17px;
+border: solid #000000 7px;}
+.Text { position:relative; text-align: center;
+font-family: monospace, cursive; font-size: 30px; color: #c7c7c7; padding-top: 30px; font-weight: bold;}
+.Smiley {position: relative; padding-top: 10px; text-align: center;}
